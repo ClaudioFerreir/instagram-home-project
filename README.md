@@ -1,1 +1,2 @@
-# instagram-home-project
+# Home Instagram Project
+## Project created with CSS Flexbox
